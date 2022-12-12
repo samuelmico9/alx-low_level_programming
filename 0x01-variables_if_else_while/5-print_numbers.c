@@ -2,8 +2,10 @@
 #include <time.h>
 #include <stdlib.h>
 /**
- * main - prints all single digit number of base 10 starting from 0, followed by new line
- * Return: Always 0 (Success)
+ * main - main block
+ * Description: prints all single digit number of 10
+ * starting from 0, followed by new line.
+ * Return: 0
  */
 int main(void)
 {
